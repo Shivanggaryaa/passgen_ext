@@ -21,8 +21,8 @@
 
 ## 📁 Project Structure
 
->> popup.html # Main popup UI
->>  popup.js # JavaScript logic for password generation and UI
->> style.css # Styling (Light & Dark mode support)
->> icon.png # Extension icon (128x128)
->> manifest.json # Chrome extension manifest (v3)
+- popup.html # Main popup UI
+-  popup.js # JavaScript logic for password generation and UI
+- style.css # Styling (Light & Dark mode support)
+- icon.png # Extension icon (128x128)
+- manifest.json # Chrome extension manifest (v3)
